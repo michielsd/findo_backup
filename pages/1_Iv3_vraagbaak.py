@@ -1,10 +1,12 @@
 import streamlit as st
 import re
+import requests
 
 # Read the text file
+
 GEMEENTEN_TAAKVELDEN_FILE = "https://github.com/michielsd/findo_backup/raw/refs/heads/main/data/gemeenten_taakvelden.txt"
-with open(GEMEENTEN_TAAKVELDEN_FILE, "r", encoding="utf-8") as f:
-  content = f.read()
+response = requests.get(GEMEENTEN_TAAKVELDEN_FILE)
+content = response.text
 
 # Initialize variables to store the current taakveld and its description
 taakveld = ""
