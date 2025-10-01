@@ -1,0 +1,753 @@
+**0.1 - Uitkering provinciefonds**
+
+Tot dit taakveld behoort de algemene uitkering uit het provinciefonds. Dit is inclusief de daartoe behorende integratie-uitkeringen en decentralisatie-uitkeringen.
+
+Tot dit taakveld behoren niet:
+
+- de specifieke uitkeringen, deze worden geboekt op het taakveld waarop iedere specifieke uitkering betrekking heeft. Als een specifieke uitkering op meer dan één taakveld betrekking heeft, wordt deze uitgesplitst naar de desbetreffende taakvelden.
+
+**0.2 - Opbrengst Provinciale belastingen**
+
+Onder dit taakveld vallen de baten en lasten die met name verband houden met artikel 222, 222c en 223 van de Provinciewet:
+
+- motorrijtuigenbelasting;
+
+- precario;
+
+- rechten, waaronder leges;
+
+- invordering, bezwaar en beroep.
+
+Tot dit taakveld behoren niet:
+
+- leges met betrekking tot specifieke wetgeving zoals Wabo (taakveld 4.4), ontgrondingenwet (taakveld 4.5).
+
+**0.3 - Geldleningen en uitzettingen**
+
+Tot dit taakveld behoren de activiteiten die verband houden met de treasuryfunctie.
+
+Het betreft de baten gerelateerd aan de uitzettingen met een looptijd korter als ook langer dan 1 jaar:
+
+- ontvangen rente;
+
+- kosten derivaten;
+
+- (dis)agio leningen;
+
+- baten bespaarde rente (interne financiering);
+
+- kosten van bewaargeving.
+
+Tot dit taakveld behoren niet de baten en lasten van:
+
+- leningen/garanties uit hoofde van de publieke functie aan derden. De baten en lasten die daaraan verbonden zijn, worden geboekt op het taakveld waar die publieke taak onder valt;
+
+- uit hoofde van de publieke taak gehouden aandelen, daaraan verbonden dividenden en baten en lasten voor het aanhouden van die aandelen in bijvoorbeeld nutsbedrijven en de Bank Nederlandse Gemeenten. Deze vallen onder taakveld 0.4 (Deelnemingen).
+
+**0.4 - Deelnemingen**
+
+Tot dit taakveld behoren de baten en lasten verband houdende met deelnemingen van de provincie.
+
+- aandelen en daaraan verbonden dividenden;
+
+- baten en lasten (exploitatiebijdragen en deelnemingen) van elektriciteits-, gas- en drinkwater­voorzieningen;
+
+- baten en lasten van door de provincie beheerde warmtevoorzieningen (verwarmingsbedrijven) en centrale antennebedrijven.
+
+**0.5 - Algemene dekkingsmiddelen, overige baten en lasten**
+
+Tot dit taakveld behoren:
+
+- stelposten voor de geraamde bedragen voor de in het begrotingsjaar te verwachten loon- en prijsstijgingen voor zover deze niet zijn toegerekend;
+
+- een geraamd bedrag ter dekking van niet voorziene uitgaven in het begrotingsjaar.
+
+Het gaat hier om het bedrag dat door de provincies wordt geraamd ter dekking van incidentele, niet voorziene, lasten;
+
+- geraamde baten en lasten voortvloeiende uit beleidsveranderingen. Hieronder worden onder meer gerekend de stelposten nieuw beleid, intensivering bestaand beleid, ombuigingen dan wel nog te nemen bezuinigingsmaatregelen. Dit voor zover deze niet zijn toe te delen aan specifieke taalvelden;
+
+- overige baten en lasten die niet aan specifieke taakvelden zijn toe te rekenen.
+
+Tot dit taakveld behoren niet:
+
+- Werkelijke incidentele niet voorziene lasten of baten, deze moeten verantwoord worden bij het taakveld waarop ze betrekking hebben.
+
+**0.6 - Overhead**
+
+Tot dit taakveld behoren de kosten van overhead, d.w.z. alle kosten die samenhangen met de sturing en ondersteuning van medewerkers in het primaire proces. Hiertoe behoren ook de systemen en aanverwante lasten die deze functies ondersteunen. Uitgangspunt is dat (uitvoerings)lasten zoveel mogelijk direct worden toegerekend aan de betreffende taken/activiteiten. Dit taakveld volgt de duiding uit de notitie Overhead 2023[[1]](#_ftn1) van de commissie BBV . De omvang en de samenstelling van de overhead wordt beïnvloed door de karakteristieken van een organisatie en de keuzes die worden gemaakt. Deze keuzes worden bij voorkeur vastgelegd in de financiële verordening of een kadernota. De volgende lasten moeten op dit taakveld worden verantwoord:
+
+- leidinggevenden primair proces, die personele verantwoordelijkheden hebben zoals het voeren van functioneringsgesprekken en bij verordening of nota zijn aangewezen als overhead;
+
+- financiën, toezicht en controle gericht op de eigen organisatie, waaronder planning & control, verantwoording en auditing;
+
+- personeel en organisatie (P&O / HRM) en organisatie- en formatieadvies;
+
+- inkoop (incl. aanbesteding en contractmanagement);
+
+- interne en externe communicatie inclusief vormgeving, m.u.v. klantcommunicatie die specifieke taakvelden betreft -- zie de opsomming van activiteiten die moeten worden verantwoord op het primaire proces hieronder;
+
+- juridische zaken: juridische medewerkers op een bedrijfsvoeringafdeling of belast met een bedrijfsvoeringstaak;
+
+- bestuurszaken: ambtelijke ondersteuning en beleidsadvisering van de commissaris van de koning en de gedeputeerde staten;
+
+- informatievoorziening en automatisering van PIOFACH-systemen, inclusief organisatie-overkoepelende systemen zoals de zaaksystemen, kantoorautomatisering en thuiswerkapplicaties;
+
+- facilitaire zaken en huisvesting (incl. beveiliging);
+
+- documentaire informatievoorziening (DIV);
+
+- managementondersteuning en secretariaten primair proces.
+
+Tot dit taakveld behoort niet:
+
+- ondersteuning van de raad, de griffie maakt geen deel uit van de ambtelijke organisatie,\
+dit hoort onder taakveld 1.1.
+
+De volgende activiteiten horen ook niet op dit taakveld, maar moeten worden verantwoord op het taakveld van het primaire proces:
+
+- klantcommunicatie die betrekking heeft op specifieke taakvelden, zoals belastingen, wijkteams of vergunningen;
+
+- de activiteiten van projectleiders en coördinatoren -- leidinggevenden zonder personele verantwoordelijkheid;
+
+- afhandeling van bezwaar- en beroepsschriften en activiteiten van juristen die primaire taken verrichten zoals vergunningverlening;
+
+- alle lasten van sturing/ondersteuning/PIOFACH voor zover deze kosten betrekking hebben op één of enkele taakvelden en deze kosten daar worden verantwoord (in lijn met de keuzes over overhead zoals die bij voorkeur zijn vastgelegd in de financiële verordening of een kadernota); het betreft bijvoorbeeld de zwembaddirecteur, sectorcontrollers en managementondersteuning en secretariaten primair proces;
+
+- informatievoorziening en automatisering ten behoeve van primaire proces-systemen moeten worden verantwoord op het taakveld van dat proces;
+
+- een bijdrage aan/van een verbonden partij, zoals een gemeenschappelijke regeling, als vergoeding voor de uitvoering van taken. Deze moet worden verantwoord op het taakveld/de taakvelden waar de verbonden partij werkzaam voor is.
+
+Lasten die toegerekend worden aan grondexploitaties, investeringen en onderhoudsvoorzieningen moeten via taakveld 0.6 met economische categorie 7.5 worden doorbelast aan het desbetreffende taakveld of balansstand. Zie hiervoor economische categorie 7.5 Overige verrekeningen.
+
+**0.7 -- Vennootschapsbelasting**
+
+Op dit taakveld wordt (de raming van) het te betalen bedrag vennootschapsbelasting als last geboekt. Het gaat om het (geraamde) bedrag van de aanslag vennootschapsbelasting voor het betreffende begrotingsjaar/verantwoordingsjaar. Dit bedrag is verschuldigd vanwege fiscale winst die per saldo is gerealiseerd op ondernemingsactiviteiten in het betreffende begrotingsjaar na eventuele verrekening van fiscale verliezen uit eerdere begrotingsjaren.
+
+Ook in de jaarrekening zal het veelal nog gaan om een raming van het bedrag van de aanslag, omdat de definitieve aanslag dan nog niet is ontvangen.
+
+Daarom wordt op dit taakveld ook het eventueel voorkomend verschil geboekt tussen het bedrag van de in het begrotingsjaar ontvangen definitieve aanslag vennootschapsbelasting over een ouder begrotingsjaar en het bedrag dat als raming in de jaarstukken voor dat oudere jaar is opgenomen.
+
+**0.8 - Mutaties reserves**
+
+Op dit taakveld worden alle onttrekkingen en toevoegingen aan de reserves geboekt die verband houden met de taakvelden 0. tot en met 8. (met uitzondering van taakveld 0.9 - Resultaat). Op dit taakveld mag alleen worden geboekt op de economische categorie 7.1 Mutatie reserves. Mutaties in de voorzieningen worden op het taakveld geboekt waarop de voorziening is/wordt getroffen.
+
+Op dit taakveld worden alle onttrekkingen en toevoegingen aan de reserves geboekt die verband houden met de taakvelden 0. tot en met 8. (met uitzondering van taakveld 0.9 - Resultaat). Op dit taakveld mag alleen worden geboekt op de economische categorie 7.1 Mutatie reserves. Mutaties in de voorzieningen worden op het taakveld geboekt waarop de voorziening is/wordt getroffen.
+
+Bij overboekingen van reserves geniet het de voorkeur om deze via het overzicht van baten en lasten te laten lopen, en dan via taakveld 0.10 Mutatie reserves. De boeking van de resultaatsbestemming naar de betreffende reserves is een balansboeking. Mutaties van reserves die op hetzelfde programma betrekking hebben, kunnen ook via een balansmutatie worden voltrokken, maar alleen als de reserves voor de raad een duidelijke programma-indeling hebben. Een overboeking van een reserve komt veelal neer op een begrotingswijziging, waarmee de raad met het oog op het begrotingscriterium moet instemmen. Zie verder de notitie *Hoofdlijnen van het BBV* van de commissie BBV.[[2]](#_ftn2)
+
+**0.9 - Resultaat**
+
+Dit taakveld is het saldo van de rekening van baten en lasten van alle andere taakvelden, inclusief de toevoegingen en onttrekkingen aan reserves op die taakvelden.
+
+Dit resultaat van de rekening (het saldo op dit taakveld) moet via een aparte balanspost zichtbaar zijn, zie artikel 42 van het Besluit begroting en verantwoording.
+
+Op dit taakveld kan alleen worden geboekt op de economische categorie 7.1 Mutatie reserves.
+
+***\
+***
+
+1\. Bestuur
+-----------
+
+**1.1 - Provinciale Staten**
+
+Baten en lasten die verband houden met het democratisch functioneren van provinciale staten, inclusief die voor de griffier van de Staten, de rekenkamer(functie) en de accountant (begroting, jaarverslag e.d.).
+
+**1.2 - Gedeputeerde Staten**
+
+Baten en lasten die verband houden met het democratisch functioneren van de gedeputeerde staten inclusief de commissaris van de Koning.
+
+**1.3 - Kabinetszaken**
+
+Tot dit taakveld worden gerekend de werkzaamheden van het kabinet van de commissaris van de Koning.
+
+Niet tot dit taakveld behoort:
+
+- Als de commissaris optreedt in het belang van de handhaving van de rechtsorde en als orgaan van het Rijk, zoals: openbare orde en veiligheid; rampenbestrijding; voorbereiding civiele verdediging. Dit behoort onder taakveld 1.6 (openbare orde en veiligheid).
+
+**1.4 - Bestuurlijke organisatie**
+
+Tot dit taakveld behoren:
+
+- toepassing van de Wet gemeenschappelijke regelingen betreffende samenwerkingsverbanden op het gebied van algemeen bestuur;
+
+- gemeentelijke herindeling, ook grenswijzigingen tussen gemeenten;
+
+- vernieuwing bestuurlijke organisatie en in relatie daarmee de takenpakketten van de verschillende bestuurslagen;
+
+- nieuwe bestuursvormen;
+
+- wijziging van de provinciale grenzen.
+
+Niet tot dit taakveld behoort:
+
+- bestuurlijk interprovinciaal overleg betreffende bestuurlijke organisatie (taakveld 1.9).
+
+**1.5 - Interbestuurlijk toezicht op de regio**
+
+Het financiële toezicht van het provinciaal bestuur op gemeenten en op gemeenschappelijke regelingen tussen gemeenten is gebaseerd op verschillende wetten en voorschriften.
+
+Tot dit taakveld behoren toezichtsactiviteiten die voortvloeien uit:
+
+- Gemeentewet;
+
+- Wet gemeenschappelijke regelingen;
+
+- Financiële-verhoudingswet;
+
+- Wet Financiering Decentrale Overheden (FIDO);
+
+- Besluit begroting en verantwoording provincies en gemeenten (BBV).
+
+Niet tot dit taakveld behoren:
+
+- bestuurlijk interprovinciaal overleg betreffende bestuurlijke organisatie (taakveld 1.9);
+
+- het niet-financiële toezicht ingevolge de overige wettelijke regelingen op taken van de gemeenten, al dan niet ondergebracht in een gemeenschappelijke regeling (taakveld 1.9).
+
+**1.6 - Openbare orde en veiligheid**
+
+Baten en lasten op het gebied van openbare orde en veiligheid behoren tot dit taakveld. Zoals:
+
+- civiele verdediging en rampenbestrijding;
+
+- taken commissaris van de koning op het gebied van veiligheid.
+
+Het betreft verder adviesverzoeken aan provinciale besturen op grond van:
+
+- Drank- en Horecawet;
+
+- Wet vervoer gevaarlijke stoffen;
+
+- Wet buitengewone bevoegdheden burgerlijk gezag (in verband met handhaving orde);
+
+- Politionele zaken;
+
+- baten en lasten van civiele verdediging en rampenbestrijding;
+
+- reddingswezen.
+
+Tot dit taakveld behoort niet:
+
+- lasten op het gebied van de Wet Milieubeheer en de Omgevingswet v.w.b. milieubelastende activiteiten (taakveld 4.6);
+
+- natuurbeschermingsregelgeving onder de Omgevingswet (taakveld 5.3).
+
+**1.9 - Bestuur, overige baten en lasten**
+
+Tot dit taakveld behoren de baten en lasten passend bij de uitvoering van de overige wettelijke regelingen, die tot het algemeen bestuur worden gerekend. Zoals:
+
+- archiefinspectie;
+
+- afhandelen klachten;
+
+- ingediende bezwaren en beroepen;
+
+- bestuurlijk interprovinciaal overleg;
+
+- baten en lasten voor het voormalig personeel (wachtgelden, pensioenvervangende uitkeringen);
+
+- de aan derden in rekening te brengen apparaatskosten evenals de direct daaraan te relateren lasten;
+
+- de baten en lasten van interprovinciale activiteiten voor zover declarabel bij andere provincies en voor zover deze niet behoren tot de overige taakvelden;
+
+- Provinciale eigendommen.
+
+Tot dit taakveld behoren niet:
+
+- de uitkeringen en pensioenen aan weduwen en wezen van oud-leden van gedeputeerde staten. Deze baten en lasten op het betreffende taakveld 1.2 verantwoorden;
+
+- de baten en lasten voor werken voor derden, deze behoren bij de specifieke taakvelden waar ze betrekking op hebben.
+
+***\
+***
+
+2\. Verkeer en vervoer
+----------------------
+
+**2.1 - Landwegen**
+
+Tot dit taakveld behoren taken ten behoeve van de aanleg en het beheer en onderhoud van landwegen en verkeersonderzoek:
+
+- bruggen, kruispunten, tunnels, viaducten, parkeerplaatsen, parkeerstroken, bushaltes, bermen, middenbermen, wegsloten, vangrails, drainagewerken, stut- en schoorwerken, fietspaden, trottoirs, vluchtheuvels, onderhoudssteunpunten, dienstwoningen van kantonniers;
+
+- wegmarkering, straatverlichting, verkeersborden, verkeersregelinstallaties, bijdragen voor wegmeubilair, beplantingen, maatregelen ter bestrijding geluidhinder, herstel van schade;
+
+- gladheidsbestrijding;
+
+- vergunningverlening en handhaving;
+
+- informatievoorziening weggebruikers.
+
+Tot dit taakveld behoren niet:
+
+- overige maatregelen ter bestrijding geluidhinder niet behorende bij\
+provinciale wegen (taakveld 4.3);
+
+- picknickplaatsen (taakveld 6.4);
+
+- recreatieve rijwielpaden (taakveld 6.4).
+
+**2.2 - Waterwegen**
+
+Tot dit taakveld behoren taken ten behoeve van aanleg en beheer en onderhoud van waterwegen:
+
+- baggeren van vaarwegen;
+
+- oeveronderhoud;
+
+- aanleg en vervanging van kunstwerken bij vaarwegen;
+
+- bediening van bruggen en sluizen;
+
+- nautisch toezicht;
+
+- vergunningverlening en handhaving;
+
+- informatievoorziening vaarweggebruikers.
+
+Tot dit taakveld behoren niet:
+
+- Activiteiten op het gebied van waterkering (taakveld 3.1);
+
+- Activiteiten op het gebied van kwantiteit (taakveld 3.2) en kwaliteit (taakveld 3.4) oppervlaktewater;
+
+- Waterschapswet (taakveld 3.9);
+
+- bijdragen aan havenschappen (taakveld 6.9).
+
+**2.3 - Openbaar vervoer**
+
+Tot dit taakveld behoren taken ten behoeve van het openbaar vervoer:
+
+- luchtvaart-, trein-, tram-, metro- en autobusdiensten;
+
+- busstations;
+
+- spoor- en tramwegen;
+
+- boot- en veerdiensten;
+
+- reizigersinformatie.
+
+Tot dit taakveld behoren niet:
+
+- sportvliegvelden (taakveld 6.9);
+
+- opbrengsten (dividend) uit kapitaalverstrekkingen aan een vervoersmaatschappij (taakveld 0.4).
+
+**\
+**
+
+**2.9 - Verkeer en vervoer, overige baten en lasten**
+
+Tot dit taakveld behoren de overige taken op het gebied van verkeer en vervoer waaronder:
+
+- overlegorganen verkeersveiligheid en de verkeers- en vervoersplanning;
+
+- algemene beïnvloeding van verkeersgedrag Algemeen onderzoek.
+
+***\
+***
+
+3\. Water
+---------
+
+**3.1 -- Waterkeringen**
+
+Tot dit taakveld behoren taken ten behoeve van de uitvoering van waterkeringswerken:
+
+- kosten voortvloeiende uit omgevingsverordeningen, EU-richtlijn overstromingsrisico's en de Deltawet;
+
+- exploitatielasten van zee-, rivier- en boezemwaterkeringen c.a..
+
+**3.2 - Kwantiteit oppervlaktewater**
+
+Tot dit taakveld behoren taken op het gebied van beheer en onderhoud van oppervlaktewater:
+
+- kosten voortvloeiende uit de omgevingsverordening daarover;
+
+- exploitatie installaties c.a. voor kwantitatief beheer en van de daarop betrekking hebbende exploitatie van dienstwoningen;
+
+- heffingen voor boezemwateren en polders en (huur)opbrengsten dienstwoningen;
+
+- pachtopbrengsten.
+
+Tot dit taakveld behoort niet:
+
+- kwaliteit oppervlaktewater (taakveld 3.4).
+
+**3.3 - Kwantiteit grondwater**
+
+Tot dit taakveld behoren taken op het gebied van beheer en onderhoud van grondwater:
+
+- grondwaterheffing en onderzoek, monitoring en meetnetbeheer;
+
+- onttrekking grondwater voor drinkwatervoorziening.
+
+Tot dit taakveld behoren niet:
+
+- aandelen in algemene drinkwatervoorzieningen (taakveld 0.4);
+
+- kwaliteit grondwater (taakveld 3.5).
+
+**3.4 - Kwaliteit oppervlaktewater**
+
+Tot dit taakveld behoren taken op het gebied van het kwalitatieve beheer van het oppervlaktewater:
+
+- Uitvoering Kaderrichtlijn Water;
+
+- zwemwater (natuurbaden);
+
+- rioleringen en stedelijk waterbeheer (waterketen);
+
+- verontreinigingsheffing en Beheer en onderhoud van zuiveringswerken.
+
+Tot dit taakveld behoren niet:
+
+- kwantiteit oppervlaktewater (taakveld 3.2).
+
+**3.5 - Kwaliteit grondwater**
+
+Tot dit taakveld behoren taken op het gebied van kwalitatieve beheer van grondwater:
+
+- onderzoek, monitoring en meetnetbeheer;
+
+Tot dit taakveld behoren niet:
+
+- kwantiteit grondwater (taakveld 3.3);
+
+- bodembescherming (taakveld 4.1).
+
+**3.9 - Water, overige baten en lasten**
+
+Tot dit taakveld behoren de overige taken op het gebied van water, onder meer op grond van de Waterschapswet (organisatie waterschapsbestel).
+
+***\
+***
+
+4\. Milieu
+----------
+
+**4.1 -- Bodembescherming**
+
+Tot dit taakveld behoren de taken op het gebied van bodembescherming:
+
+- kosten voortvloeiend uit de bodembeschermingsregelgeving onder de Omgevingswet, waaronder bodembeschermende maatregelen en bodemsanering.
+
+Tot dit taakveld behoren niet:
+
+- de bij de provincie blijvende baten en lasten van bodemsanering, waarvan de verontreiniging of aantasting van de bodem betrekking heeft op gronden van de provincie. Deze worden tot die functie gerekend, waar de baten en lasten voor beheer en onderhoud van die gronden tot uitdrukking worden gebracht.
+
+**4.2 -- Luchtverontreiniging**
+
+Tot dit taakveld behoren de taken op het gebied van luchtverontreiniging:
+
+- Kosten voortvloeiende uit de regelgeving over luchtverontreiniging onder de Omgevingswet, waaronder metingen van de luchtverontreiniging met behulp van meetwagens, aanschaf / onderhoud en controle meetapparatuur.
+
+**4.3 -- Geluidhinder**
+
+Tot dit taakveld behoren de taken op het gebied van geluidhinder:
+
+- Kosten voortvloeiende uit de regelgeving over geluidhinder onder de Omgevingswet, waaronder metingen van geluidhinder met behulp van meetwagens, aanschaf / onderhoud en controle meetapparatuur;
+
+- Actieplan geluid.
+
+**4.4 - Vergunningverlening en handhaving**
+
+Tot dit taakveld behoren de taken op het gebied van (milieu)vergunningverlening en handhaving:
+
+- kosten voortvloeiende uit de wet milieubeheer en de Omgevingswet v.w.b. milieubelastende activiteiten;
+
+- leges omgevingsvergunning milieubelastende activiteit;
+
+- bijdrage aan de regionale uitvoeringsdiensten (RUD's).
+
+Tot dit taakveld behoren niet:
+
+- de kosten voor ontgrondingen (zie taakveld 4.5).
+
+**4.5 -- Ontgrondingen**
+
+Tot dit taakveld behoren de taken op het gebied van ontgrondingen.
+
+- Kosten voortvloeiende uit de regelgeving over ontgrondingen onder de Omgevingswet;
+
+- leges omgevingsvergunning ontgrondingsactiviteit.
+
+**4.6 -- Duurzaamheid**
+
+Tot dit taakveld behoren de taken op het gebied van duurzaamheid:
+
+- Adviseren over en stimuleren van duurzaamheidsinitiatieven waaronder:
+
+. duurzame energie;
+
+. warmte-koude opslag in bodem;
+
+. fair trade;
+
+. duurzame landbouw
+
+**4.9 - Milieu, overige baten en lasten**
+
+Tot dit taakveld behoren de overige taken op het gebied van milieu.
+
+***\
+***
+
+5\. Natuur
+----------
+
+**5.1 -- Natuurontwikkeling**
+
+Het betreft hier de baten en lasten voor het realiseren van de ontwikkelopgave nationaal natuurnetwerk;
+
+- verwerving van gronden ten behoeve van het inrichten van deze gronden als natuur;
+
+- verkoop van gronden ontvangen van het rijk die niet passen in de ontwikkelopgave.\
+De opbrengst van deze gronden wordt weer voor natuur ingezet.
+
+**5.2 - Beheer natuurgebieden**
+
+Het betreft hier de baten en lasten voor beheer en onderhoud van natuurgebieden:
+
+- natuurbeheer;
+
+- beheerplannen natura2000-gebieden;
+
+- aanpak stikstof;
+
+- beschermende maatregelen van natuur en landschappen;
+
+- agrarisch natuurbeheer;
+
+- vergunningverlening, maatwerkvoorschriften en adviezen op grond van de Omgevingswet v.w.b. Natura 2000-activiteiten en houtopstanden;
+
+- ondersteuning van Nationale parken.
+
+**5.3 - Beheer flora en fauna**
+
+Het betreft hier de baten en lasten voor beheer van planten en dieren in een bepaald gebied waaronder:
+
+- vergunningverlening en adviezen op grond van de Omgevingswet v.w.b. de flora- en fauna-activiteit;
+
+- bestrijding invasieve exoten;
+
+- jacht;
+
+- weidevogellandschappen;
+
+- aanpak ganzenschade.
+
+**5.9 - Natuur, overige baten en lasten**
+
+Tot dit taakveld behoren de overige taken op het gebied van natuur
+
+Tot dit taakveld behoort niet:
+
+- duurzame landbouw (taakveld 4.6).
+
+***\
+***
+
+6\. Regionale economie
+----------------------
+
+**6.1 -- Agrarische aangelegenheden**
+
+Baten en lasten voor de verbetering van de agrarische structuur, land-, tuin- en bosbouw en veeteelt.
+
+In dit verband moet ook worden gedacht aan de kosten die samenhangen met de provinciale activiteiten rondom de reconstructie van varkenshouderijen en dergelijke.
+
+**6.2 - Logistiek**
+
+Tot dit taakveld behoren de baten en lasten die samenhangen met de logistieke inrichting ter bevordering van de economische activiteiten. Zoals:
+
+- zee- en binnenhavens;
+
+- overslagcentra;
+
+- logistieke knooppunten;
+
+- innovatie op het gebied van logistiek;
+
+- parkeeroverlast vrachtwagens.
+
+**6.3 -- Kennis en innovatie**
+
+Baten en lasten van voor de bevordering van kennis en het stimuleren van innovatie.
+
+Kernbegrippen zijn:
+
+- aansluiting tussen onderwijs en arbeidsmarkt;
+
+- ontsluiting en toepassing van het regionaal kennisaanbod;
+
+- universiteiten en hogescholen;
+
+- Regionaal Opleidingscentrum (ROC);
+
+- leerstoelen;
+
+- Research & Development;
+
+- laboratoria.
+
+Tot deze functie behoren niet de baten en lasten van:
+
+- educatie (taakveld 7.9)
+
+**6.4 -- Recreatie en toerisme**
+
+Dit taakveld omvat de activiteiten voor het bevorderen van recreatie en toerisme.
+
+Tot dit taakveld behoren onder meer:
+
+- baten en lasten van toeristische rijwiel-, voet- en ruiterpaden;
+
+- baten en lasten van strandvoorzieningen, jachthavens en sportvliegvelden e.d.;
+
+- baten en lasten van bevordering van overige recreatieve activiteiten;
+
+- bevordering toerisme, waaronder subsidie aan de V.V.V.
+
+Niet tot dit taakveld behoren:
+
+- amateuristische kunstbeoefening, creatieve vorming (taakveld 7.1);
+
+- zwembaden, trimbanen en sportvelden en --terreinen (taakveld 7.2);
+
+- leefbaarheid (taakveld 8.1).
+
+**6.9 -- Regionale economie, overige baten en lasten**
+
+Baten en lasten voor specifieke aangelegenheden op het gebied van economische zaken behoren in principe tot het desbetreffende taakveld. Als een directe relatie met een dergelijk taakveld ontbreekt, vindt verantwoording plaats op dit taakveld.
+
+Tot dit taakveld behoort niet:
+
+- De deelnemingen aan nutsbedrijven (taakveld 0.4).
+
+***\
+***
+
+7\. Cultuur en maatschappij
+---------------------------
+
+**7.1 -- Cultuur**
+
+Tot dit taakveld behoren de taken op het gebied van cultuur waaronder:
+
+- bevordering van beeldende kunst, muziek, dans en toneel;
+
+- musea: verwerven, behouden, wetenschappelijk onderzoeken en presenteren van kunst en cultuur;
+
+- letterkunde en talen (waaronder Friese taal, wet gebruik Friese taal);
+
+- instandhouding, restauratie en herbestemming monumenten (monumentenwet).
+
+**7.2 -- Maatschappij**
+
+Tot dit taakveld behoren de taken op het gebied van maatschappij waaronder:
+
+- bijdrage aan provinciale ondersteuningsinstelling bibliotheken (wet stelsel openbare bibliotheekvoorzieningen);
+
+- sociaal beleid, maatschappelijke dienstverlening;
+
+- sport;
+
+- toezicht uit hoofde van de Wet hygiëne en veiligheid badgelegenheden en zweminrichtingen.
+
+Tot dit taakveld behoort niet:
+
+- eigen bibliotheek (onderdeel van bedrijfsvoering taakveld 0.6)
+
+**7.9 - Cultuur en maatschappij, overige baten en lasten**
+
+Tot dit taakveld behoren de overige taken op het gebied van cultuur en maatschappij.
+
+Onder andere: samenlevingsopbouw, volksgezondheid.
+
+***\
+***
+
+8\. Ruimte
+----------
+
+**8.1 -- Ruimte en leefomgeving**
+
+Tot dit taakveld behoren de taken op het gebied van ruimtelijke ordening en ontwikkeling en
+
+functietoedeling van de leefomgeving:
+
+- op- en bijstellen van structuurvisies;
+
+- overleg en inspraak;
+
+- voorbereiden van vaststellen omgevingsvisie;
+
+- voorbereiden en vaststellen omgevingsverordening;
+
+- voorbereiden en vaststellen inpassingsplannen/projectbesluiten;
+
+- betrokkenheid bij voorbereiding en toetsing gemeentelijke structuurvisies/omgevingsvisies en bestemmingsplannen/omgevingsplannen;
+
+- baten en lasten Digitaal Stelsel Omgevingswet;
+
+- opstellen algemene plannen, demografische en ruimtelijke modellen;
+
+- onderzoek kleine kernen, groeikernen, urbanisatie, suburbanisatie;
+
+- provinciale raad van advies voor de ruimtelijke ordening;
+
+- uitwerkingsplannen die niet functioneel zijn toe te rekenen, zoals dorpenplan, plan militaire terreinen;
+
+- exploitatieverordening;
+
+- schadevergoedingen ingevolge de Wro/Omgevingswet;
+
+- stimuleren van maatregelen ter verbetering van de leefbaarheid binnen de provincie.
+
+Tot dit taakveld behoren niet:
+
+- het opstellen van actieplan geluid valt onder 4.3 Geluidshinder;
+
+- het opstellen van beheerplannen natura2000 valt onder 5.2 Beheer natuurgebieden.
+
+**8.2 - Volkshuisvesting**
+
+Tot dit taakveld behoren de taken op het gebied van volkshuisvesting waaronder:
+
+- woningmarktonderzoek;
+
+- woningbouwprogrammering;
+
+- provinciale schoonheidscommissie;
+
+- stichting welstandstoezicht;
+
+- organisatie van de overloop uit de Randstad;
+
+- subsidie voor ondersteuning projecten voor flexibel en toekomstgericht bouwen;
+
+- toezicht op huisvestigingsproces Statushouders op basis van wet revitalisering generiek toezicht.
+
+**8.3 - Stedelijke vernieuwing**
+
+Tot dit taakveld behoren de taken op het gebied van stedelijke vernieuwing waaronder:
+
+- provinciale stedelijke vernieuwingscommissie;
+
+- uitvoering rijksbeleid voor stedelijke vernieuwing;
+
+- stimulering en uitvoering van provinciaal beleid met betrekking tot stedelijke vernieuwing.
+
+**8.9 - Ruimte, overige baten en lasten**
+
+Tot deze functie behoren de baten en lasten, die niet specifiek aan bovenstaande taakvelden zijn toe te rekenen.
+
+* * * * *
+
+[[1]](#_ftnref1) Notitie Overhead 2023: https://commissiebbv.nl/cms/view/2db36f5c-0dde-4262-ac82-9dc941d8d707/notitie-overhead-2023
+
+[[2]](#_ftnref2)  <https://commissiebbv.nl/cms/view/e2a3a282-355b-4ad3-a682-d22da390fa7a/notitie-hoofdlijnen-van-het-bbv>

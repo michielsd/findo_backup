@@ -1,0 +1,365 @@
+**1\. Balansstanden Activa**
+
+**Vaste Activa**
+
+*Immateriële vaste activa:*
+
+A111 Kosten verbonden aan sluiten geldlening en saldo agio/disagio
+
+A112 Kosten onderzoek en ontwikkeling voor een bepaald actief
+
+A113 Bijdragen aan activa in eigendom van derden
+
+*Materiële vaste activa:*
+
+A121 Gronden en terreinen
+
+A122 Woonruimten
+
+A123 Bedrijfsgebouwen
+
+A124 Grond-, weg- en waterbouwkundige werken
+
+A125 Vervoermiddelen
+
+A126 Machines, apparaten en installaties
+
+A129 Overig
+
+Het komt voor dat in de administratie en programmarekening de balanspost 'vaste activa in uitvoering' is opgenomen. De post 'materiële vaste activa in uitvoering' komt echter niet voor in de Iv3-matrix. De vaste activa in uitvoering moeten in principe worden verantwoord op de balanspost waar het betreffende activum thuishoort. Dus de uitgaven aan een weg in uitvoering, indien geactiveerd, horen thuis op de balanspost 'grond-, weg- en waterbouwkundige werken'. Indien de administratie dit niet toelaat, kan de gemeente kiezen voor verantwoording van de activa in uitvoering op de bestaande balanspost 'overige materiële vaste activa' (A129). Ditzelfde geldt voor bijvoorbeeld de ontwikkeling van (GWW-)projecten namens anderen (bouwheer), die in een later stadium worden 'doorverkocht' aan die anderen.
+
+*Financiële vaste activa:*
+
+A1311 Kapitaalverstrekking aan deelnemingen
+
+Deze post heeft betrekking op vorderingen die eigendomsrechten op vennootschappen vertegenwoordigen. Dergelijke vorderingen geven de houder recht op een aandeel in de winst alsmede in het netto vermogen in geval van liquidatie. Hier is sprake van risicodragende vorderingen. De waarde van de vordering en de vergoeding voor het beschikbaar gestelde vermogen staan niet contractueel vast, maar is afhankelijk van marktontwikkelingen.
+
+Aandelen en deelnemingen zijn mogelijk in beurs- en niet-beursgenoteerde bedrijven. Voorbeelden zijn aandelen in de BNG en energiebedrijven. Aandelen in gemeenschappelijke regelingen, stichtingen en andere publiekrechtelijke organisaties zijn per definitie niet mogelijk.
+
+Tot de (mutaties) in deze post behoren niet de reguliere dividenduitkeringen.
+
+Tot deze post horen niet de leningen aan deelnemingen; deze worden geboekt onder A1322 Leningen aan deelnemingen.
+
+A1312 Kapitaalverstrekking aan gemeenschappelijke regelingen
+
+Niet hieronder vallen de langlopende leningen aan gemeenschappelijke regelingen. Deze moeten worden geboekt onder A1331a Leningen aan openbare lichamen (art. 1a Wet Fido)
+
+A1313 Kapitaalverstrekking aan overige verbonden partijen
+
+A1321 Leningen aan woningbouwcorporaties
+
+De leningen betreffen hier langlopende, niet-verhandelbare vorderingen die een oorspronkelijke looptijd hebben van meer dan één jaar, blijkend uit niet-verhandelbare documenten tussen leningnemer en leninggever. Kenmerken zijn: een onvoorwaardelijke schuld met aflossing op vaste vervaldata volgens een afgesproken aflossingsschema en een afgesproken rentevergoeding. Tot langlopende leningen behoren ook gestorte waarborgsommen.
+
+A1322 Leningen aan deelnemingen
+
+Zie de algemene opmerking betreffende langlopende leningen bij A1321 Leningen aan woningbouwcorporaties.
+
+A1323 Leningen aan overige verbonden partijen
+
+Zie de algemene opmerking betreffende langlopende leningen bij A1321 Leningen aan woningbouwcorporaties.
+
+A1331b Overige langlopende leningen (niet-overheid)
+
+Zie de algemene opmerking betreffende langlopende leningen bij A1321 Leningen aan woningbouwcorporaties. Op deze balanspost worden leningen aan andere partijen dan overheidsinstellingen, woningbouwcorporaties, deelnemingen en overige verbonden partijen verwacht.
+
+A1331c Langlopende leningen aan gemeenten (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende langlopende leningen bij A1321 Leningen aan woningbouwcorporaties. Op deze balanspost worden aan (andere) gemeenten verstrekte langlopende leningen verwacht.
+
+A1331d Langlopende leningen aan gemeenschappelijke regelingen (Wet 1a Fido)
+
+Zie de algemene opmerking betreffende langlopende leningen bij A1321 Leningen aan woningbouwcorporaties. Op deze balanspost worden aan gemeenschappelijke regelingen verstrekte langlopende leningen verwacht.
+
+A1331e Langlopende leningen aan overige overheden (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende langlopende leningen bij A1321 Leningen aan woningbouwcorporaties. Op deze balanspost worden langlopende leningen verwacht die zijn verstrekt aan andere overheidsinstellingen dan gemeenten en gemeenschappelijke regelingen. Zie de definitie van een [overheidsinstelling](#Overheidsinstelling) in de [Begrippenlijst](#_Begrippenlijst) in de categoriebeschrijving.
+
+A1332a Uitzettingen in 's Rijks schatkist met een looptijd ≥ 1 jaar
+
+Het betreft alle middelen die uit hoofde van de Wet Fido in 's Rijks schatkist worden aangehouden in de vorm van één of meerdere deposito's met een resterende looptijd van één jaar of langer.
+
+Zie de Begrippenlijst in de categoriebeschrijving voor wat tot het [Rijk](#Rijk) wordt gerekend.
+
+A1332b Uitzettingen in de vorm van Nederlands schuldpapier met een looptijd ≥ 1 jaar
+
+Betreft verhandelbaar schuldpapier uitgegeven door Nederlandse overheden.
+
+Zie de Begrippenlijst in de categoriebeschrijving voor wat tot Nederlandse [overheidsinstellingen](#Overheidsinstelling)  wordt gerekend.
+
+A1332c Overige uitzettingen met een looptijd ≥ 1 jaar
+
+Dit heeft betrekking op verhandelbare vorderingen aan toonder met een oorspronkelijke looptijd van meer dan één jaar. De houder van deze schuldtitel heeft geen eigendomsrechten op de emittent. Kort gezegd gaat het om risicomijdend verhandelbaar papier met een lange looptijd. Voorbeelden zijn obligaties en Medium Term Notes. Het gaat hier niet om langlopende leningen zoals beschreven onder A1321 Leningen aan woningbouwcorporaties. Ook bezittingen aan effecten vallen hier niet onder.
+
+**Vlottende Activa**
+
+*Voorraden:*
+
+A212 Overige grond- en hulpstoffen
+
+A213 Onderhanden werk (incl. bouwgronden in exploitatie)
+
+A214 Gereed product en handelsgoederen
+
+A215 Vooruitbetalingen
+
+*Uitzettingen:*
+
+A221a Vorderingen op gemeenten
+
+A221b Vorderingen op gemeenschappelijke regelingen
+
+A221c Vorderingen op overige overheden
+
+Zie de definitie van een [overheidsinstelling](#Overheidsinstelling) in de [Begrippenlijst](#_Begrippenlijst) in de categoriebeschrijving.
+
+A222b Overige verstrekte kasgeldleningen (niet-overheid)
+
+Kasgeldleningen betreffen hier vorderingen die een oorspronkelijke looptijd hebben van minder dan één jaar, blijkend uit niet-verhandelbare documenten tussen leningnemer en leninggever. Kenmerken zijn: een onvoorwaardelijke schuld met aflossing op vaste vervaldata volgens een afgesproken aflossingsschema en een afgesproken rentevergoeding.
+
+In de wet staat dat overtollige middelen onder voorwaarden onderling uitgeleend mogen worden aan andere decentrale overheden. Daarnaast was het al mogelijk om uit hoofde van de publieke taak onderling middelen uit te lenen. Deze waarvan-post omvat zowel de onderling uitgeleende overtollige middelen zoals bedoeld in de wet Schatkistbankieren als de onderling uitgeleende middelen uit hoofde van de publieke taak met een resterende looptijd van minder dan één jaar.
+
+Op balanspost A222b worden kasgeldleningen aan partijen verwacht die geen overheidsinstelling zijn.
+
+A222c Verstrekte kasgeldleningen aan gemeenten (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende kasgeldleningen bij A222b Overige verstrekte kasgeldleningen. Op balanspost A222c worden de kasgeldleningen aan gemeenten verwacht.
+
+A222d Verstrekte kasgeldleningen aan gemeenschappelijke regelingen (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende kasgeldleningen bij A222b Overige verstrekte kasgeldleningen. Op balanspost A222d worden de kasgeldleningen aan gemeenschappelijke regelingen verwacht.
+
+A222e Verstrekte kasgeldleningen aan overige overheden (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende kasgeldleningen bij A222b Overige verstrekte kasgeldleningen. Op balanspost A222e worden de kasgeldleningen aan andere overheidsinstellingen dan gemeenten en gemeenschappelijke regelingen verwacht. Zie de definitie van een [overheidsinstelling](#Overheidsinstelling) in de [Begrippenlijst](#Begrippenlijst) in de categoriebeschrijving.
+
+A223a Rekening courant verhouding met het Rijk
+
+Deze post betreft de aangehouden middelen op de rekening courant relatie met het Rijk uit hoofde van het schatkistbankieren. Deze kunnen zonder beperking of boete worden omgezet in kasgeld.
+
+Zie de Begrippenlijst in de categoriebeschrijving voor wat tot het [Rijk](#Rijk) wordt gerekend.
+
+A223b Rekening courant verhoudingen overige niet-financiële instellingen
+
+Zie de algemene opmerking betreffende rekening courant verhoudingen bij A223a Rekening courant verhouding met het Rijk.
+
+A224 Overige vorderingen (niet-overheid)
+
+Hieronder onder vallen onder meer handelskredieten. Handelskredieten zijn hier alle mutaties in vorderingen die zijn ontstaan als gevolg van het verkopen van goederen en/of diensten (en zo zijn geregistreerd onder de baten in één van de categorieën in de groep [Goederen en diensten](#_3._Goederen_en)), maar waarvoor de afnemer nog niet is betaald. Ook vallen onder de handelskredieten de vooruitbetalingen aan een leverancier voor nog te ontvangen goederen/en diensten (en die bij levering zullen worden geregistreerd onder lasten [Goederen en diensten](#_3._Goederen_en)).
+
+A225a Uitzettingen in 's Rijks schatkist met een looptijd < 1 jaar
+
+Het betreft alle middelen die uit hoofde van de Wet Fido in 's Rijks schatkist worden aangehouden in de vorm van één of meerdere deposito's met een resterende looptijd van minder dan één jaar. Deze uitzettingen zijn niet zonder boete of beperking direct op te nemen. Indien dit wel het geval is, dan vallen deze vorderingen onder A223a Rekening courant verhouding met het Rijk.
+
+A225b Uitzettingen in de vorm van Nederlands schuldpapier met een looptijd < 1 jaar
+
+Het Nederlands schuldpapier is daarbij uitgegeven door de Nederlandse overheid. Zie de Begrippenlijst in de categoriebeschrijving voor wat tot Nederlandse [overheidsinstellingen](#Overheidsinstelling)  wordt gerekend.
+
+A225c Overige uitzettingen met een looptijd < 1 jaar
+
+Dit heeft betrekking op verhandelbare vorderingen aan toonder met een oorspronkelijke looptijd van minder dan één jaar. De houder van deze schuldtitel heeft geen eigendomsrechten op de emittent. Kort gezegd gaat het om risicomijdend verhandelbaar papier met een korte looptijd. Voorbeelden zijn commercial papers en depositocertificaten. Het gaat hier niet om kortlopende leningen.
+
+A23 Liquide middelen (kas, banksaldi)
+
+Tot de liquide middelen behoren naast het kasgeld zelf, ook alle banksaldi en spaartegoeden die zonder beperking of boete omgezet kunnen worden in kasgeld.
+
+*Overlopende activa:*
+
+A29a Nog te ontvangen bijdragen van de [EU](#EU)
+
+Dit betreft niet alleen nog te ontvangen inkomens- en kapitaaloverdrachten, maar ook vooruitbetaalde inkomens- en kapitaaloverdrachten.
+
+Zie de Begrippenlijst in de categoriebeschrijving voor wat wordt gerekend tot de [Europese Unie](#EU).
+
+NB hieronder vallen niet de nog te ontvangen inkomens- en kapitaaloverdrachten van of uit landen binnen de EU zoals van een Belgische gemeente of een Frans departement. Deze moeten worden geboekt onder A29d Overige overlopende activa.
+
+A29b Nog te ontvangen bijdragen van het [Rijk](#Rijk)
+
+Dit betreft niet alleen nog te ontvangen inkomens- en kapitaaloverdrachten, maar ook vooruitbetaalde inkomens- en kapitaaloverdrachten.
+
+Zie de Begrippenlijst in de categoriebeschrijving voor wat tot het [Rijk](#Rijk) wordt gerekend.
+
+A29d Overige overlopende activa
+
+Dit betreft niet alleen nog te ontvangen inkomens- en kapitaaloverdrachten van overige sectoren die niet onder A29a, b, e, f of g zijn beschreven, maar ook vooruitbetaalde inkomens- en kapitaaloverdrachten.
+
+Hieronder vallen ook nog te ontvangen inkomens- en kapitaaloverdrachten van en vooruitbetaalde inkomens- en kapitaaloverdrachten aan buitenlandse overheden of buitenlandse overheidslichamen (binnen of buiten de EU) zoals een Belgische gemeente of een Duitse deelstaat.
+
+Hieronder vallen daarnaast transitorische posten als:
+
+- vooruitbetaalde belastingen;
+
+- vooruitbetaalde sociale premies;
+
+- nog te ontvangen dividenden;
+
+- nog te ontvangen rente.
+
+A29e Nog te ontvangen bijdragen van provincies
+
+Dit betreft niet alleen nog te ontvangen inkomens- en kapitaaloverdrachten, maar ook vooruitbetaalde inkomens- en kapitaaloverdrachten.
+
+A29f Nog te ontvangen bijdragen van gemeenten
+
+Dit betreft niet alleen nog te ontvangen inkomens- en kapitaaloverdrachten, maar ook vooruitbetaalde inkomens- en kapitaaloverdrachten.
+
+A29g Nog te ontvangen bijdragen van overige overheden
+
+Dit betreft niet alleen nog te ontvangen inkomens- en kapitaaloverdrachten, maar ook vooruitbetaalde inkomens- en kapitaaloverdrachten.
+
+Met overige overheden worden hier bedoeld: alle Nederlandse [overheidsinstellingen](#Overheidsinstelling), met uitzondering van het [Rijk](#Rijk), de provincies en de gemeenten.\
+Zie de definitie van een [overheidsinstelling](#Overheidsinstelling) in de [Begrippenlijst](#Begrippenlijst) in de categoriebeschrijving.
+
+NB hieronder vallen niet buitenlandse overheden of buitenlandse overheidslichamen. Deze moeten worden geboekt onder de overige overlopende activa.
+
+***\
+***
+
+**2\. Balansstanden Passiva**
+
+**Vaste Passiva**
+
+*Eigen vermogen:*
+
+P111 Algemene reserve
+
+P112 Bestemmingsreserves
+
+P114 Saldo van rekening
+
+*Vreemd vermogen:*
+
+P12 Voorzieningen
+
+*Vaste schuld:*
+
+Bij langlopende leningen gaat het om schulden die een oorspronkelijke looptijd hebben van meer dan één jaar, blijkend uit niet-verhandelbare documenten tussen leningnemer en leninggever. Kenmerken zijn: een onvoorwaardelijke schuld met aflossing op vaste vervaldata volgens een afgesproken aflossingsschema en een afgesproken rentevergoeding.
+
+Tot langlopende leningen behoren ook:
+
+- financial lease en huurkoopovereenkomsten;
+
+- leningen ter financiering van handelskredieten;
+
+- hypothecaire geldleningen.
+
+P131 Obligatieleningen
+
+Zie de algemene opmerking hierboven onder vaste schuld.\
+Hiertoe behoren o.a. Medium Term Notes.
+
+P132 Onderhandse leningen van binnenlandse pensioenfondsen en verzekeraars
+
+Zie de algemene opmerking hierboven onder vaste schuld.
+
+P133 Onderhandse leningen van binnenlandse banken en overige financiële instellingen
+
+Zie de algemene opmerking hierboven onder vaste schuld.
+
+P134 Onderhandse leningen van binnenlandse bedrijven
+
+Zie de algemene opmerking hierboven onder vaste schuld.
+
+P135b Onderhandse leningen van overige binnenlandse sectoren
+
+Zie de algemene opmerking hierboven onder vaste schuld. Op deze balanspost worden leningen verwacht die zijn verstrekt door andere partijen dan overheidsinstellingen, financiële instellingen en bedrijven.
+
+P135c Onderhandse leningen van provincies (art.1a Wet Fido)
+
+Zie de algemene opmerking hierboven onder vaste schuld. Op balanspost P135c worden de door provincies verstrekte langlopende leningen verwacht.
+
+P135d Onderhandse leningen van gemeenten (art. 1a Wet Fido)
+
+Zie de algemene opmerking hierboven onder vaste schuld. Op balanspost P135d worden de door (andere) gemeenten verstrekte langlopende leningen verwacht.
+
+P135e Onderhandse leningen van overige overheden (art. 1a Wet Fido)
+
+Zie de algemene opmerking hierboven onder vaste schuld. Op balanspost P135e worden de langlopende leningen verwacht die zijn verstrekt door andere Nederlandse overheidsinstellingen dan provincies en gemeenten.
+
+P136 Onderhandse leningen van buitenlandse instellingen
+
+Zie de algemene opmerking hierboven onder vaste schuld.
+
+P137 Door derden belegde gelden
+
+P138 Waarborgsommen
+
+P139 Renteswaps en derivaten
+
+P140 Vooruitontvangen bedragen met een rentetypische looptijd van één jaar of langer\
+Bij koninklijk besluit 469 van 22 november 2017 is besloten dat gemeenten en provincies met ingang van het verslagjaar 2017 een nieuwe balanspost in hun jaarrekening moeten opnemen, te weten "Overige leningen met een rentetypische looptijd van één jaar en langer". Omdat de term 'leningen' in de titel de lading van P140 niet dekt, is bij besluit van 22 januari 2019 de naam van de balanspost gewijzigd in 'Vooruitontvangen bedragen met een rentetypische looptijd van één jaar of langer'. Het gaat bijvoorbeeld om de afkoopsom bij erfpacht en vooruit ontvangen betalingen in het kader van de afkoop van rechten als vruchtgebruik en opstal. Leningen dienen onder de balansposten P131 tot en met P136 te worden geregistreerd.
+
+**Vlottende Passiva**
+
+*Vlottende schuld:*
+
+P211b Overige Kasgeldleningen (niet-overheid)
+
+Kasgeldleningen betreffen schulden die een oorspronkelijke looptijd hebben van minder dan één jaar, blijkend uit niet-verhandelbare documenten tussen leningnemer en leninggever. Kenmerken zijn: een onvoorwaardelijke schuld met aflossing op vaste vervaldata volgens een afgesproken aflossingsschema en een afgesproken rentevergoeding. Op balanspost P211b worden kasgeldleningen verwacht die zijn verstrekt door andere partijen dan overheidsinstellingen.
+
+P211c Kasgeldleningen van provincies (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende kasgeldleningen bij P211b Overige verstrekte kasgeldleningen. Op balanspost P211c worden kasgeldleningen verwacht die zijn verstrekt door provincies.
+
+P211d Kasgeldleningen van gemeenten (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende kasgeldleningen bij P211b Overige verstrekte kasgeldleningen. Op balanspost P211d worden kasgeldleningen verwacht die zijn verstrekt door gemeenten.
+
+P211e Kasgeldleningen van overige overheden (art. 1a Wet Fido)
+
+Zie de algemene opmerking betreffende kasgeldleningen bij P211b Overige verstrekte kasgeldleningen. Op balanspost P211e worden kasgeldleningen verwacht die zijn verstrekt door andere overheidsinstellingen dan provincies en gemeenten.
+
+Zie de definitie van een overheidsinstelling in de [Begrippenlijst](#Begrippenlijst) in de categoriebeschrijving.
+
+NB hieronder vallen niet buitenlandse overheden of buitenlandse overheidslichamen. Deze moeten worden geboekt onder de overige overlopende activa.
+
+P212 Banksaldi
+
+P213 Overige vlottende schulden
+
+Hieronder onder vallen onder meer handelskredieten. Handelskredieten zijn hier alle mutaties in schulden die zijn ontstaan als gevolg van het kopen van goederen en/of diensten (en zo zijn geregistreerd onder de lasten in één van de categorieën in de groep [Goederen en diensten](#_3._Goederen_en)), maar waarvoor door de afnemer nog niet is betaald. Ook vallen onder de handelskredieten de vooruitbetalingen van afnemers voor nog te ontvangen goederen/en diensten (en die bij levering zullen worden geregistreerd onder baten [Goederen en diensten](#_3._Goederen_en)).
+
+*Overlopende Passiva:*
+
+P29a Vooruit ontvangen bijdragen van de [EU](#EU)
+
+Dit betreft niet alleen vooruit ontvangen inkomens- en kapitaaloverdrachten, maar ook nog te betalen inkomens- en kapitaaloverdrachten.
+
+Zie de [Begrippenlijst](#_Begrippenlijst) in de categoriebeschrijving voor wat wordt gerekend tot de [Europese Unie](#EU).
+
+NB hieronder vallen niet de vooruit ontvangen inkomens- en kapitaaloverdrachten van landen binnen de EU zoals van een Belgische gemeente of een Duitse deelstaat. Deze moeten worden geboekt onder P29d Overige overlopende activa.
+
+P29b Vooruit ontvangen bijdragen van het [Rijk](#Rijk)
+
+Dit betreft niet alleen vooruit ontvangen inkomens- en kapitaaloverdrachten, maar ook nog te betalen inkomens- en kapitaaloverdrachten.
+
+Zie de [Begrippenlijst](#_Begrippenlijst) in de categoriebeschrijving voor wat tot het [Rijk](#Rijk) wordt gerekend.
+
+P29d Overige overlopende passiva (niet-overheid)
+
+Dit betreft niet alleen vooruit ontvangen inkomens- en kapitaaloverdrachten van overige sectoren die niet onder P29a, b, e, f of g zijn beschreven, maar ook nog te betalen inkomens- en kapitaaloverdrachten.
+
+Hieronder vallen ook vooruit ontvangen inkomens- en kapitaaloverdrachten van en nog te betalen inkomens- en kapitaaloverdrachten aan buitenlandse overheden of buitenlandse overheidslichamen (binnen of buiten de EU) zoals een Belgische gemeente of een Duitse deelstaat.
+
+Onder deze post valt ook de vooruit ontvangen erfpacht in het kader van langdurige afkoop van erfpacht; zie ook categoriebeschrijving 3.3 Pachten.
+
+Hieronder vallen daarnaast transitorische posten als:
+
+- nog te betalen belastingen;
+
+- nog te betalen sociale premies;
+
+- nog te betalen rente.
+
+P29e Vooruit ontvangen bedragen van provincies
+
+Dit betreft niet alleen vooruit ontvangen inkomens- en kapitaaloverdrachten, maar ook nog te betalen inkomens- en kapitaaloverdrachten.
+
+P29f Vooruit ontvangen bedragen van gemeenten
+
+Dit betreft niet alleen vooruit ontvangen inkomens- en kapitaaloverdrachten, maar ook nog te betalen inkomens- en kapitaaloverdrachten.
+
+P29g Vooruit ontvangen bijdragen van overige overheden
+
+Dit betreft niet alleen vooruit ontvangen inkomens- en kapitaaloverdrachten, maar ook nog te betalen inkomens- en kapitaaloverdrachten. Het betreft bij deze balanspost alle Nederlandse [overheidsinstellingen](#Overheidsinstelling), met uitzondering van het [Rijk](#Rijk), de gemeenten en de provincies. Zie de definitie van een [overheidsinstelling](#Overheidsinstelling) in de [Begrippenlijst](#Begrippenlijst) in de categoriebeschrijving.
+
+NB hieronder vallen niet buitenlandse overheden of buitenlandse overheidslichamen. Deze moeten worden geboekt onder de overige overlopende activa.
