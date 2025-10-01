@@ -20,6 +20,8 @@ for s in content.split("\n"):
 
     taakveld = s
     taakveld_description = ""
+  elif s.startswith("**"):
+    pass
   else:
     taakveld_description += s + "\n"
 
