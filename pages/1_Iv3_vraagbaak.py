@@ -2,7 +2,7 @@ import streamlit as st
 import re
 
 # Read the text file
-GEMEENTEN_TAAKVELDEN_FILE = "C:/Dashboard/Werk/streamlit/findo2/data/gemeenten_taakvelden.txt"
+GEMEENTEN_TAAKVELDEN_FILE = "https://github.com/michielsd/findo_backup/raw/refs/heads/main/data/gemeenten_taakvelden.txt"
 with open(GEMEENTEN_TAAKVELDEN_FILE, "r", encoding="utf-8") as f:
   content = f.read()
 

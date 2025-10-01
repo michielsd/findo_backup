@@ -6,7 +6,7 @@ import openpyxl
 
 @st.cache_resource
 def get_data():
-    FILEPATH = "C:/Dashboard/Werk/streamlit/findo2/data/rekening_balansposten.pickle"
+    FILEPATH = "https://github.com/michielsd/findo_backup/raw/refs/heads/main/data/rekening_balansposten.pickle"
     data = pd.read_pickle(FILEPATH)
 
     return data
