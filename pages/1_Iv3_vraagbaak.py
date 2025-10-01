@@ -47,7 +47,7 @@ for s in taakveld_content.split("\n"):
 
     taakveld = s
     taakveld_description = ""
-  elif s.startswith("**"):
+  elif len(s) >= 2 and s[0].isdigit() and s[2] == '.' or s.startswith("***") or s.startswith("****"):
     pass
   else:
     taakveld_description += s + "\n"  
@@ -93,6 +93,5 @@ if input and (zoek_button or st.session_state.get("last_input") != input):
       st.markdown("**Resultaten:**")
       st.markdown("---")
       st.markdown(output, unsafe_allow_html=True)
-      st.write(output_dict)
     elif input and not output:
       st.write("Geen resultaten gevonden")
