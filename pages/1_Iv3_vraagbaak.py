@@ -5,7 +5,7 @@ import requests
 # Read the text file
 
 GEMEENTEN_TAAKVELDEN_FILE = "https://github.com/michielsd/findo_backup/raw/refs/heads/main/data/gemeenten_taakvelden.txt"
-PROVINCIES_TAAKVELDEN_FILE = "C:/Dashboard/Werk/streamlit/Findo2/data/provincies_taakvelden.txt"
+PROVINCIES_TAAKVELDEN_FILE = "https://github.com/michielsd/findo_backup/raw/refs/heads/main/data/provincies_taakvelden.txt"
 CATEGORIEN_FILE = "C:/Dashboard/Werk/streamlit/Findo2/data/iv3_categorieen.txt"	
 BALANSPOSTEN_FILE = "C:/Dashboard/Werk/streamlit/Findo2/data/iv3_balansposten.txt"
 
@@ -32,8 +32,8 @@ for s in taakveld_content.split("\n"):
   else:
     taakveld_description += s + "\n"
 
-with open(PROVINCIES_TAAKVELDEN_FILE, "r") as file:
-  taakveld_content = file.read()
+response = requests.get(PROVINCIES_TAAKVELDEN_FILE)
+taakveld_content = response.text
 
 # Initialize variables to store the current taakveld and its description
 taakveld = ""
